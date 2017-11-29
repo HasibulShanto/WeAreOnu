@@ -18,8 +18,7 @@
 
 .navbar-default .navbar-nav > li > a:focus,
 .navbar-default .navbar-nav > li > a:hover{
-	color: #87d37c;
-
+	color: #fff;
 }
 .navbar-default .navbar-nav > li > a:focus{outline: none;}
 .dropdown ul li a:focus{outline: none;}
